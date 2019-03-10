@@ -1,0 +1,20 @@
+{
+    "name": "ramjan/contact",
+    "description": "this is send email to admin and data save to database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ramjan",
+            "email": "rharnab@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+
+     "autoload": {
+        "psr-4": {
+            "Ramjan\\Contact\\": "src/"
+        }
+    }
+}
